@@ -110,6 +110,7 @@
   padding: 1em;
   border-radius: 100%;
   transition: all 0.2s ease;
+  cursor: pointer !important;
 }
 * header .navbar .navbar-toggler:hover {
   background: #000;

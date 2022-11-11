@@ -146,6 +146,7 @@ $ddg: #151515;
                 padding: 1em;
                 border-radius: 100%;
                 transition: all 0.2s ease;
+                cursor: pointer !important;
 
                 &:hover {
                     background: $b;

@@ -8,7 +8,6 @@
     <meta name="description" content="Folkart Case Study Work">
     <meta name="author" content="Barış Albayrak">
     <meta name="theme-color" content="#000">
-    <meta http-equiv="content-language" content="tr">
     <link href='./assets/materials/opengraph/favicon.jpg' rel='icon' type='image/x-icon' />
 
     <!-- Bootstrap CSS v5.2.1 -->
@@ -30,17 +29,17 @@
     <header>
         <nav class="navbar navbar-expand-xl navbar-dark fixed-top pt-4 pb-4">
             <div class="container-fluid col-11">
-                <a class="navbar-brand my-auto" href="/"><img src="assets/materials/logo.svg" class="logo"></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
-                    aria-label="Toggle navigation">
+                <a class="navbar-brand my-auto" href="/"><img src="assets/materials/logo.svg" alt="Folkart Logo"
+                        class="logo"></a>
+                <div class="navbar-toggler" role="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavId"
+                    aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation">
                     <div class="toggleMe">
                         <span class="line"></span>
                         <span class="line"></span>
                         <span class="line"></span>
                     </div>
 
-                </button>
+                </div>
                 <div class="collapse navbar-collapse" id="collapsibleNavId">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item my-auto my-auto me-3">
@@ -90,12 +89,12 @@
                             <p class="mt-2 mb-xl-4">Kaçırılmayacak Fırsatlarla Sizleri Bekliyor!</p>
                             <div class="navigation-links text-uppercase">
                                 <a href="#" class="btn btn-outline mb-auto me-2 mt-3 mt-xl-auto reverse d-inline-block">
-                                    <img src="assets/materials/phone.svg">
+                                    <img src="assets/materials/phone.svg" alt="phone-icon">
                                     <span>Sizi Arayalım</span>
                                 </a>
 
                                 <a href="#" class="btn btn-outline reverse d-inline-block mt-3 mt-xl-auto">
-                                    <img src="assets/materials/chat.svg">
+                                    <img src="assets/materials/chat.svg" alt="chat-icon">
                                     <span>Onlıne Randevu</span>
                                 </a>
                             </div>
@@ -136,7 +135,7 @@
                 </div>
             </div>
             <div class="background">
-                <img src="assets/materials/banner_bg.jpg" alt="Background Image" srcset="">
+                <img src="assets/materials/banner_bg.jpg" alt="Background Image">
             </div>
         </section>
 
@@ -155,15 +154,18 @@
                                 <div class="row px-4">
                                     <div class="col-xl-6 slide-img p-0">
                                         <div class="slider-wrapper">
-                                            <img src="assets/materials/concept_img.png" class="img-fluid">
+                                            <img alt="Concept Image 1" src="assets/materials/concept_img.png"
+                                                class="img-fluid">
                                         </div>
 
                                         <div class="slider-wrapper">
-                                            <img src="assets/materials/concept_img_2.png" class="img-fluid">
+                                            <img alt="Concept Image 2" src="assets/materials/concept_img_2.png"
+                                                class="img-fluid">
                                         </div>
 
                                         <div class="slider-wrapper">
-                                            <img src="assets/materials/concept_img.png" class="img-fluid">
+                                            <img alt="Concept Image 3" src="assets/materials/concept_img.png"
+                                                class="img-fluid">
                                         </div>
                                     </div>
 
@@ -211,15 +213,18 @@
                                     <div
                                         class="col-xl-6 ms-xl-auto slide-img p-0 order-xl-1 order-12 d-xl-block d-none">
                                         <div class="slider-wrapper">
-                                            <img src="assets/materials/project_img.png" class="img-fluid">
+                                            <img alt="Project Image 1" src="assets/materials/project_img.png"
+                                                class="img-fluid">
                                         </div>
 
                                         <div class="slider-wrapper">
-                                            <img src="assets/materials/project_img_2.png" class="img-fluid">
+                                            <img alt="Project Image 2" src="assets/materials/project_img_2.png"
+                                                class="img-fluid">
                                         </div>
 
                                         <div class="slider-wrapper">
-                                            <img src="assets/materials/project_img.png" class="img-fluid">
+                                            <img alt="Project Image 3" src="assets/materials/project_img.png"
+                                                class="img-fluid">
                                         </div>
                                     </div>
 
@@ -307,15 +312,18 @@
                             <div class="row">
                                 <div class="ms-xl-auto slide-img p-0 order-xl-1 order-12">
                                     <div class="slider-wrapper">
-                                        <img src="assets/materials/concept_img_3.png" class="img-fluid">
+                                        <img alt="Concept Image 1" src="assets/materials/concept_img_3.png"
+                                            class="img-fluid">
                                     </div>
 
                                     <div class="slider-wrapper">
-                                        <img src="assets/materials/concept_img_2.png" class="img-fluid">
+                                        <img alt="Concept Image 2" src="assets/materials/concept_img_2.png"
+                                            class="img-fluid">
                                     </div>
 
                                     <div class="slider-wrapper">
-                                        <img src="assets/materials/concept_img_4.png" class="img-fluid">
+                                        <img alt="Concept Image 3" src="assets/materials/concept_img_4.png"
+                                            class="img-fluid">
                                     </div>
                                 </div>
                             </div>
@@ -342,6 +350,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
 
         <section class="mapArea mt-5 mt-xl-0 mb-5" data-aos="fade-in" data-aos-duration="1500">
@@ -392,8 +401,7 @@
                                 </div>
                                 <div class="col-xl-6 mb-xl-3 mb-4">
                                     <label for="phone" class="form-label text-uppercase">Telefon</label>
-                                    <input type="number" class="form-control" pattern="[0-9]+" minlength="11"
-                                        maxlength="11" placeholder="Telefon Numaranız" id="phone"
+                                    <input type="number" class="form-control" placeholder="Telefon Numaranız" id="phone"
                                         aria-describedby="phone" required>
                                 </div>
                             </div>
@@ -436,11 +444,11 @@
                     <div class="content col-xl-10 mx-auto row">
                         <div
                             class="col-xl-12 d-xl-flex justify-content-between align-content-center align-items-center text-center">
-                            <a href="#"><img src="assets/materials/logo_1.svg"></a>
-                            <a href="#"><img src="assets/materials/logo_2.svg"></a>
-                            <a href="#"><img src="assets/materials/logo_3.svg"></a>
-                            <a href="#"><img src="assets/materials/logo_4.svg"></a>
-                            <a href="#"><img src="assets/materials/logo_5.svg"></a>
+                            <a href="#"><img src="assets/materials/logo_1.svg" alt="Folkart Other Logo"></a>
+                            <a href="#"><img src="assets/materials/logo_2.svg" alt="Folkart Other Logo"></a>
+                            <a href="#"><img src="assets/materials/logo_3.svg" alt="Folkart Other Logo"></a>
+                            <a href="#"><img src="assets/materials/logo_4.svg" alt="Folkart Other Logo"></a>
+                            <a href="#"><img src="assets/materials/logo_5.svg" alt="Folkart Other Logo"></a>
 
                         </div>
                     </div>
@@ -451,12 +459,12 @@
                         <div class="row">
                             <div class="col-xl-6 text-xl-start text-center">
                                 <h5 class="mb-4 text-uppercase">İletişim</h5>
-                                <a href="#"">Manas Bulvarı Adalet Mahallesi<br/>
-                                No:47 K:43 Bayraklı/İzmir</a>
+                                <a href="#">Manas Bulvarı Adalet Mahallesi<br />
+                                    No:47 K:43 Bayraklı/İzmir</a>
 
-                            <a class=" mt-xl-5 mt-4 mb-5 clickToCall d-flex justify-content-xl-start
+                                <a class=" mt-xl-5 mt-4 mb-5 clickToCall d-flex justify-content-xl-start
                                     justify-content-center align-content-center align-items-center" href="tel:4442278">
-                                    <img class="me-3" src="assets/materials/phone.svg">
+                                    <img class="me-3" src="assets/materials/phone.svg" alt="phone-icon">
                                     <span>444 22 78</span>
                                 </a>
                             </div>
