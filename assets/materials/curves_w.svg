@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="853" viewBox="0 0 1920 853">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="1920" height="853" fill="#f4eee9"/>
+    </clipPath>
+  </defs>
+  <g id="Group_11_Group_11_Mask_Copy" data-name="Group 11 + Group 11 Mask Copy" clip-path="url(#clip-path)">
+    <g id="Group_11" data-name="Group 11" transform="translate(-137 -116)" opacity="0.15">
+      <path id="Stroke_1" data-name="Stroke 1" d="M1762.333,277.178c-131.657,121.711-356.183,141.306-232.295,0C1601.409,195.774,1629.6,81.915,1640.687,0H0V1013.5c33.234-35.78,92.09-97.5,130.084-217.3,99.11-312.5,390.253-323.374,500.5-209.242,123.98,128.348-35.624,455.706,241.682,562.51H1911V0h-7.94C1889.213,69.329,1852.9,193.456,1762.333,277.178Z" transform="translate(0 1.144)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M0,482.825S74.368,349.866,295.5,298.374C511.423,248.1,635.693,333.68,908.851,271.6S1261.794,0,1261.794,0" transform="translate(0 1.144)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M1048.189,0S989.376,133.074,670.551,187.392,79.976,195.919,11.231,426.38c-73.945,247.9,241.439,426.382,241.439,426.382" transform="translate(862.811 297.094)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M0,641.478S49.249,457.1,313.035,372.383c246.391-79.129,433.5,20.213,754.284-52.827S1431.915,0,1431.915,0" transform="translate(0 0.381)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_9" data-name="Stroke 9" d="M0,780.3S75.266,531.2,359.26,429.282c340.676-122.264,473.439,22.749,823.82-57.056S1607.376,0,1607.376,0" transform="translate(0 1.144)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="Group_11-2" data-name="Group 11" transform="translate(-71 -133)">
+      <path id="Stroke_1-2" data-name="Stroke 1" d="M1882.219,295.872c-140.614,129.92-380.413,150.836-248.1,0C1710.348,208.978,1740.461,87.44,1752.3,0H0V1081.858c35.495-38.193,98.355-104.078,138.934-231.952,105.852-333.578,416.8-345.184,534.547-223.354C805.9,763.556,635.434,1112.992,931.6,1227H2041V0h-8.48C2017.731,74,1978.948,206.5,1882.219,295.872Z" transform="translate(0 1)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_3-2" data-name="Stroke 3" d="M0,516S79.449,373.905,315.688,318.875c230.675-53.731,363.436,37.732,655.255-28.614S1348,0,1348,0" transform="translate(0 1)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_5-2" data-name="Stroke 5" d="M1119,0s-62.787,142.162-403.15,200.189S85.379,209.3,11.99,455.5C-66.95,720.331,269.74,911,269.74,911" transform="translate(922 317)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_7-2" data-name="Stroke 7" d="M0,685S52.588,488.112,334.259,397.648c263.1-84.5,462.891,21.584,805.425-56.411S1529,0,1529,0" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_9-2" data-name="Stroke 9" d="M0,833S80.4,567.078,383.762,458.275c363.91-130.521,505.727,24.285,880-60.91S1717,0,1717,0" transform="translate(0 1)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

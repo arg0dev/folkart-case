@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1367" viewBox="0 0 1920 1367">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="1920" height="1367" transform="translate(0 0.5)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_11_Copy" data-name="Group 11 Copy" transform="translate(0 -0.5)" clip-path="url(#clip-path)">
+    <g id="Group_11" data-name="Group 11" transform="translate(-427 -141.5)" opacity="0.15">
+      <path id="Stroke_1" data-name="Stroke 1" d="M2310.122,363.39c-172.581,159.568-466.9,185.257-304.5,0,93.555-106.723,130.513-256,145.042-363.39H0V1328.737c43.564-46.909,120.715-127.829,170.519-284.883C300.435,634.153,682.075,619.9,826.59,769.53c162.517,168.268-46.7,597.446,316.8,737.47H2505V0h-10.408C2476.441,90.893,2428.841,253.627,2310.122,363.39Z" transform="translate(0 1.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M0,633S97.484,458.686,387.35,391.178c283.039-65.915,445.937,46.288,804-35.1S1654,0,1654,0" transform="translate(0 1.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M1374,0s-77.095,174.465-495.02,245.677S104.835,256.856,14.722,559c-96.929,325.008,316.486,559,316.486,559" transform="translate(1131 389.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M0,841S64.557,599.273,410.336,488.207c322.977-103.74,568.244,26.5,988.74-69.258S1877,0,1877,0" transform="translate(0 0.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Stroke_9" data-name="Stroke 9" d="M0,1023S98.661,696.424,470.93,562.8c446.569-160.292,620.6,29.824,1079.889-74.8S2107,0,2107,0" transform="translate(0 1.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
