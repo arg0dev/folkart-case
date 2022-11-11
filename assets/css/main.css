@@ -361,7 +361,8 @@ body .conceptArea .slide-text .slick-prev::after {
   margin: auto;
   right: -5px;
   top: -4px;
-  background: #F3ECE6;
+  opacity: 0.2;
+  background: #939393 !important;
   position: absolute;
 }
 body .specArea {

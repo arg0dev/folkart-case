@@ -456,7 +456,8 @@ body {
                     margin: auto;
                     right: -5px;
                     top: -4px;
-                    background: $lb;
+                    opacity: 0.2;
+                    background: $mg !important;
                     position: absolute;
                 }
             }
